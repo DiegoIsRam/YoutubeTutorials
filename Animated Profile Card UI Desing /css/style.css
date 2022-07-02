@@ -12,6 +12,7 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
+  background-image: "universe-g0eef821ea_1920.jpg";
   background: linear-gradient(45deg, #fbda61, #ff5acd);
 }
 
